@@ -1,6 +1,6 @@
 Student name are:
 Ashish
-Ashok
+
 Mohan
 Radha
 ram
