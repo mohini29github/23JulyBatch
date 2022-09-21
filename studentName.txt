@@ -2,6 +2,6 @@ Student name are:
 Ashish
 Gayatri - new added at local
 Mohan
-Radha
+      Removing one name
 ram
 Shyam
